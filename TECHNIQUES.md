@@ -35,4 +35,4 @@ Reference studied: YouTube Short "I Made This 2D Animation in Just 7 Hours | Aft
 ## 3. Files of this build
 - Art layers: /workspace/work/ae2d/ae2d_*.png (generated), keyed layers in /workspace/work/ae2d/layers/, copied to /workspace/work/samjho/remotion/public/ae2d/
 - Code: /workspace/work/samjho/remotion/src/ae2d/{shaders.ts,timeline.ts,AnimeTrain.tsx,index.tsx}; render scripts /workspace/work/samjho/remotion/ae2d_stills.mjs, ae2d_render.mjs
-- Output: /workspace/work/ae2d/anime_train_eye.mp4, /workspace/work/ae2d/out_sheet.jpg
+- Web delivery (final): /workspace/work/ae2d/web/ (index.html, app.js, src/, assets/, vendor/) — live at https://abhi478jeetur-rgb.github.io/anime-train-eye/ ; zip https://gofile.io/d/UFCi6WtT. The sandbox MP4 render was stopped on the user's request (no GPU here); the page renders the MP4 on the viewer's GPU via WebCodecs.
